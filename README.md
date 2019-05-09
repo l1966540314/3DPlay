@@ -583,3 +583,12 @@
 
 #### 投注站
 
+![](https://raw.githubusercontent.com/l1966540314/3DPlay/master/image/%E6%8A%95%E6%B3%A8%E7%AB%99.jpeg)
+
+![](https://raw.githubusercontent.com/l1966540314/3DPlay/master/image/%E6%8A%95%E6%B3%A8%E7%AB%992.jpeg)
+
+#### 投注机
+
+![](https://raw.githubusercontent.com/l1966540314/3DPlay/master/image/%E6%8A%95%E6%B3%A8%E6%9C%BA.jpeg)
+
+![](https://raw.githubusercontent.com/l1966540314/3DPlay/master/image/%E6%8A%95%E6%B3%A8%E6%9C%BA2.jpeg)
