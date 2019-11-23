@@ -560,6 +560,7 @@
 
 十，没胆量，没有可能在福利彩票游戏中保存生命有很多朋友玩彩都抱着这样一种心态，赢就缩、输就冲，就只有输大钱机遇，没有赢大钱的有可能；如没有胆，你根本就不应该玩；收入率大于0是整个胆量的根据，在一种物质情形下应该没胆量，就是在收入率小于0时，要连玩的胆量都没有。
 
+
 #### 打票
 ##### 单选3D和组选3单式
 ![](https://raw.githubusercontent.com/l1966540314/3DPlay/master/image/%E5%8D%95%E9%80%893D%E5%92%8C%E7%BB%84%E9%80%893%E5%8D%95%E5%BC%8F.jpg)
@@ -588,6 +589,7 @@
 ![](https://raw.githubusercontent.com/l1966540314/3DPlay/master/image/%E6%8A%95%E6%B3%A8%E7%AB%992.jpeg)
 
 #### 投注机
+
 
 ![](https://raw.githubusercontent.com/l1966540314/3DPlay/master/image/%E6%8A%95%E6%B3%A8%E6%9C%BA.jpeg)
 
